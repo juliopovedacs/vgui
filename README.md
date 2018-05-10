@@ -19,12 +19,12 @@ This repository has VG UI, a video game browsing user interface project.
 - **1. Build Test:** introduction to get to know each member of the team.
 - **2. Sketches & Wireframes:** designed sketches and wireframes of our UI.
 - **3. Personas & Scenarios:** we designed some personas & scenarios to help us in our conceptual design phase.
-- **4. Survey & Analysis:** we designed and impplemented a survey to validate information about our UI.
+- **4. Survey & Analysis:** we designed and implemented a survey to validate information about our UI.
 - **5. Window Design:** we implemented the UI.
-- **6. Menu Design:** we designed and implemented the UI´s menu
-- **7. Styled Application:** we applied style to our application
+- **6. Menu Design:** we designed and implemented the UI´s menu.
+- **7. Styled Application:** we styled our application.
 - **8. Populated Application:** we populated our application with video games information.
-- **9. Evaluation:** we designed and made a usability test to
+- **9. Evaluation:** we designed and made a usability test.
 
 ## How can I use the project?
 
