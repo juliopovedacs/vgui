@@ -1,4 +1,4 @@
-# Human-Computer Interaction project
+# VG UI
 
 ![vgui][vgui1]
 
@@ -8,8 +8,8 @@
 
 [vgui2]: https://github.com/japoveda10/hci_project/blob/master/images/vgui_2.png
 
-## What is this repository?
-This repository has VG UI, a video game browsing user interface project.
+## What is VG UI?
+VG UI is a video game browsing user interface.
 
 ## Members
 - [Emma Greene](https://github.com/emmabgreene)
