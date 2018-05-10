@@ -1,4 +1,12 @@
-# Human-Computer Interaction
+# Human-Computer Interaction project
+
+![vgui][vgui1]
+
+[vgui1]: https://github.com/japoveda10/hci_project/blob/master/images/vgui_1.png
+
+![vgui][vgui2]
+
+[vgui2]: https://github.com/japoveda10/hci_project/blob/master/images/vgui_2.png
 
 ## What is this repository?
 This repository has VG UI, a video game browsing user interface project.
