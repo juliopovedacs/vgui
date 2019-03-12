@@ -9,7 +9,7 @@
 [vgui2]: https://github.com/japoveda10/hci_project/blob/master/images/vgui_2.png
 
 ## What is VG UI?
-VG UI is a video game browsing user interface.
+VG UI is a video game browsing user interface. My team and I build it in the Human-Computer Interaction course.
 
 ## Members
 - [Emma Greene](https://github.com/emmabgreene)
